@@ -1,6 +1,8 @@
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgcodecs.hpp>
 #include <opencv2/imgproc.hpp>
+// Author: me
+
 #include <iostream>
 #include <string>
 #include <ctime>
