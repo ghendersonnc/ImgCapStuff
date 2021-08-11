@@ -1,10 +1,5 @@
 // Author: me
-#include <opencv2/highgui.hpp>
-#include <opencv2/imgcodecs.hpp>
-#include <opencv2/imgproc.hpp>
-#include <iostream>
-#include <string>
-#include <ctime>
+
 #include "Picture.h"
 
 int main() {
